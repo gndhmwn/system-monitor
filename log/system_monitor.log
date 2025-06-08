@@ -1,0 +1,59 @@
+2025-06-07 19:34:18 - INFO - Starting system monitor on ninja-sawit (192.168.8.192). Threshold: 80%, Interval: 10s
+2025-06-07 19:34:19 - INFO - RECOVERY: ✅ Cpu Usage Back to Normal ✅
+Node: ninja-sawit
+IP: 192.168.8.192
+Current Usage: 11.5%
+Time: 2025-06-07 19:34:19
+2025-06-07 19:34:19 - WARNING - ALERT: ⚠️ High Disk Usage Alert ⚠️
+Node: ninja-sawit
+IP: 192.168.8.192
+Mount Point: /
+Usage: 92.5% (63.9GB/72.8GB)
+Time: 2025-06-07 19:34:19
+2025-06-07 19:34:20 - WARNING - ALERT: ⚠️ High Disk Usage Alert ⚠️
+Node: ninja-sawit
+IP: 192.168.8.192
+Mount Point: /home
+Usage: 81.0% (70.0GB/91.1GB)
+Time: 2025-06-07 19:34:20
+2025-06-07 22:04:07 - WARNING - ALERT: ⚠️ High CPU Usage Alert ⚠️
+Node: ninja-sawit
+IP: 192.168.8.192
+Usage: 89.2%
+Time: 2025-06-07 22:04:07
+2025-06-07 22:04:19 - INFO - RECOVERY: ✅ Cpu Usage Back to Normal ✅
+Node: ninja-sawit
+IP: 192.168.8.192
+Current Usage: 10.4%
+Time: 2025-06-07 22:04:19
+2025-06-07 22:22:30 - WARNING - ALERT: ⚠️ High CPU Usage Alert ⚠️
+Node: ninja-sawit
+IP: 192.168.8.192
+Usage: 80.6%
+Time: 2025-06-07 22:22:30
+2025-06-07 22:22:42 - INFO - RECOVERY: ✅ Cpu Usage Back to Normal ✅
+Node: ninja-sawit
+IP: 192.168.8.192
+Current Usage: 40.4%
+Time: 2025-06-07 22:22:42
+2025-06-08 06:01:03 - WARNING - ALERT: ⚠️ High CPU Usage Alert ⚠️
+Node: ninja-sawit
+IP: 192.168.8.192
+Usage: 84.4%
+Time: 2025-06-08 06:01:03
+2025-06-08 06:01:15 - INFO - RECOVERY: ✅ Cpu Usage Back to Normal ✅
+Node: ninja-sawit
+IP: 192.168.8.192
+Current Usage: 38.6%
+Time: 2025-06-08 06:01:15
+2025-06-08 06:07:52 - WARNING - ALERT: ⚠️ High CPU Usage Alert ⚠️
+Node: ninja-sawit
+IP: 192.168.8.192
+Usage: 87.1%
+Time: 2025-06-08 06:07:52
+2025-06-08 06:08:04 - INFO - RECOVERY: ✅ Cpu Usage Back to Normal ✅
+Node: ninja-sawit
+IP: 192.168.8.192
+Current Usage: 11.6%
+Time: 2025-06-08 06:08:04
+2025-06-08 07:10:46 - INFO - System monitor stopped by user
