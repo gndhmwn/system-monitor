@@ -11,6 +11,9 @@ A tool for monitoring your Linux server resources.
 - ✅ Monitor storage usage
 - ✅ Send notifications to Discord
 
+## 🖼️ Screenshot
+
+![System Monitor Demo](assets/system-monitor-demo.jpg)
 ---
 
 ## ⚙️ Instalasi
